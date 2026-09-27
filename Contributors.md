@@ -6375,3 +6375,4 @@ Jd
 - [YUVRAJ JAISWAL](https://www.linkedin.com/in/yuvraj-jaiswal-04491a2bb/) My first contribution
 - [Ismael Silva](https://github.com/ismalejo13) My first open source contribution!
 [Sdowow](https://github.com/SDowow) Hallo! This is my first open source contribution :)
+- - [Kevin Lor](https://github.com/juanthehorseemoji-sudo) - Hello GitHub! This is my first open-source contribution.
